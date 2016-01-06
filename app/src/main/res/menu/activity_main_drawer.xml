@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mission"
+            android:checked="true"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/nav_mission" />
+        <item
+            android:id="@+id/nav_experience"
+            android:icon="@drawable/ic_menu_worker"
+            android:title="@string/nav_experience" />
+        <item
+            android:id="@+id/nav_education"
+            android:icon="@drawable/ic_menu_school"
+            android:title="@string/nav_education" />
+        <item
+            android:id="@+id/nav_expertise"
+            android:icon="@drawable/ic_menu_keyboard"
+            android:title="@string/nav_expertise" />
+        <item
+            android:id="@+id/nav_hobbies"
+            android:icon="@drawable/ic_menu_gamepad"
+            android:title="@string/nav_hobbies" />
+    </group>
+
+    <item android:title="@string/nav_downloads">
+        <menu>
+            <item
+                android:id="@+id/nav_resume_pdf"
+                android:icon="@drawable/ic_menu_download"
+                android:title="@string/nav_resume_pdf" />
+        </menu>
+    </item>
+
+</menu>

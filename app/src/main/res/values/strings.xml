@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Résumé</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="russell_harkanson">Russell Harkanson</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="nav_mission">Mission</string>
+    <string name="nav_experience">Experience</string>
+    <string name="nav_education">Education</string>
+    <string name="nav_expertise">Expertise</string>
+    <string name="nav_hobbies">Hobbies</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_resume_pdf">Résumé PDF</string>
+
+    <string name="action_about">About</string>
+    <string name="about">ABOUT</string>
+    <string name="about_description">Hey!\n\nThis is just a weekend project Android application meant to be a digital version of my Résumé.\n</string>
+    <string name="about_libraries">Libraries used in this application: </string>
+    <string name="library_support">Android Support Libraries</string>
+    <string name="library_picasso">Picasso</string>
+    <string name="library_picasso_transformations">Picasso Transformations</string>
+
+    <string name="russell_title">RUSSELL</string>
+    <string name="harkanson_title">HARKANSON</string>
+    <string name="software_engineer_caps">SOFTWARE ENGINEER</string>
+    <string name="mission">Offering a Bachelor of Science in Computer Science with over a decade of software development experience. Seeking to utilize education, experience and a strong affection for computer science to provide thoughtful design, logical development and constructive maintenance necessary to engineer reliable, efficient, elegant software.</string>
+    <string name="address_1">1234 Street Road</string>
+    <string name="address_2">North Las Vegas, NV, 12345</string>
+    <string name="phone_number">(123) 456–7890</string>
+    <string name="email_address">rharkanson@gmail.com</string>
+    
+    <string name="experience_caps">EXPERIENCE</string>
+    <string name="lead_developer">LEAD DEVELOPER</string>
+    <string name="seatmeet">, SeatMeet</string>
+    <string name="seatmeet_date">February 2012 – January 2013</string>
+    <string name="seatmeet_description">• Designed and developed Android frontend.\n• Devised and developed 3NF relational database as a model for application data.\n• Developed accompanying REST API to access and store data.\n• Implemented OAuth authentication as well as Facebook and Twitter login.\n• Created Photoshop script to extract necessary data from image files.\n• Designed original Android mockup.\n• Designed and edited UI graphics.</string>
+    <string name="lead_android_dev">LEAD ANDROID DEV</string>
+    <string name="the_tennis_app">, The Tennis App</string>
+    <string name="the_tennis_app_date">May 2011 – February 2012</string>
+    <string name="the_tennis_app_description">• Designed and developed Android frontend to mirror functionality and appearance of iOS application while maintaining Android design principles.\n• Implemented data communication through existing XML-based API.\n• Developed local database to store user preferences and favorites.\n• Developed method to extract data from custom archive files based on the .zip specification.\n• Exported signed, production application and added to Android market.\n• Designed and edited UI graphics.</string>
+    <string name="prof_of_computer_science">PROF. OF COMPUTER SCIENCE</string>
+    <string name="unlv">, UNLV</string>
+    <string name="unlv_date">January 2011 – June 2011</string>
+    <string name="unlv_description">• Created curriculum to teach the basics of computing, targeting students new to Computer Science.\n• Lectured on the functionality of computer hardware and software.\n• Aimed to demonstrate capabilities of computing and underline its importance and integration into society.\n• Organized lesson syllabus and weekly schedule for both sections of class.\n• Maintained class website for class calendar, study materials, and student grades.\n• Evaluated students’ knowledge and understanding of course material.</string>
+    
+    <string name="education_caps">EDUCATION</string>
+    <string name="bachelor_cs">BACHELOR OF SCIENCE IN COMPUTER SCIENCE</string>
+    <string name="unlv_2010">University of Nevada Las Vegas | December 2010</string>
+    <string name="unlv_2010_description">Minor in mathematics. Software engineering, frontend and backend web development, algorithm analysis and design. Software, programming language and operating system theory and development.</string>
+    
+    <string name="expertise_caps">EXPERTISE</string>
+    <string name="languages">LANGUAGES</string>
+    <string name="languages_description">Assembly, C, C++, C#, HTML 5, Java, JavaScript, Objective C, PHP, Python, Swift, UML, Visual Basic</string>
+    <string name="web_front_tech">WEB FRONTEND TECHNOLOGIES</string>
+    <string name="web_front_tech_description">AngularJS, CSS, jQuery</string>
+    <string name="web_back_tech">WEB BACKEND TECHNOLOGIES</string>
+    <string name="web_back_tech_description">Apache, Nginx, Node.js, Windows Server</string>
+    <string name="databases">DATABASES</string>
+    <string name="databases_description">MongoDB, MySQL, SQLite</string>
+    <string name="software">SOFTWARE</string>
+    <string name="software_description">Adobe Master Collection CS6, Eclipse, JetBrains IDEs, Microsoft Office, Microsoft Visual Studio, Notepad++, Sublime Text, Xcode</string>
+    <string name="operating_systems">OPERATING SYSTEMS</string>
+    <string name="operating_systems_description">Linux Distros, OSX, Windows</string>
+    
+    <string name="hobbies_caps">HOBBIES</string>
+    <string name="music">MUSIC</string>
+    <string name="music_description">All aspects of creating music, including composition, sound design, production, and audio engineering.</string>
+    <string name="stem_fields">STEM FIELDS</string>
+    <string name="stem_fields_description">Learning new subjects and remaining updated with current research in the fields of computer science, physics, mathematics, electronics, and many others.</string>
+    <string name="multimedia">MULTIMEDIA</string>
+    <string name="multimedia_description">Creating artwork of various formats, including computer graphics, photography, video editing, and film.</string>
+    <string name="health">HEALTH</string>
+    <string name="health_description">Personal fitness and nutrition.</string>
+
+    <string name="call_with">Call with…</string>
+    <string name="text_with">Text message with…</string>
+    <string name="email_with">Email with…</string>
+</resources>
