@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity
                 preserveState = true;
 
                 DownloadManager.Request request = new DownloadManager.Request(
-                        Uri.parse("https://dl.dropboxusercontent.com/u/1712106/russ/resume.pdf"));
+                        Uri.parse("https://link.to/resume.pdf"));
 
                 request.setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, "resume.pdf")
                         .setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
